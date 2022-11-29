@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "119239210281",
+    "project_id": "socialpostapp-9e9ec",
+    "storage_bucket": "socialpostapp-9e9ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119239210281:android:ea7eddbfa1b03e4bfdf338",
+        "android_client_info": {
+          "package_name": "com.socialPostApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119239210281-peqe0fb76hs1hna1igjuodeehubd3m3h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.socialPostApp",
+            "certificate_hash": "513f27540372646f4c8fff5b87fa54b09cf15820"
+          }
+        },
+        {
+          "client_id": "119239210281-eh6kblc6jqdc3jup9tv9237ao5thbdho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMnolB2PNoUeML0RdWDsyvl1Ak2s4fWqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119239210281-eh6kblc6jqdc3jup9tv9237ao5thbdho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
